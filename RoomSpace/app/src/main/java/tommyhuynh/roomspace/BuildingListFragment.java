@@ -23,6 +23,7 @@ public class BuildingListFragment extends Fragment {
         add("Dwinelle");
     }};
 
+
     public BuildingListFragment() {
     }
 
