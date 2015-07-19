@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".RoomsList"
+            android:label="@string/title_activity_rooms_list" >
+        </activity>
     </application>
 
 </manifest>

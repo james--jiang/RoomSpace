@@ -16,15 +16,14 @@ import java.util.ArrayList;
 /**
  * A placeholder fragment containing a simple view.
  */
-public class MainActivityFragment extends Fragment {
-
+public class BuildingListFragment extends Fragment {
     private ArrayAdapter<String>  mBuildingAdapter;
 
     private final ArrayList<String> BUILDINGS = new ArrayList<String>() {{
         add("Dwinelle");
     }};
 
-    public MainActivityFragment() {
+    public BuildingListFragment() {
     }
 
 
